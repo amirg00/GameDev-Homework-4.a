@@ -7,5 +7,6 @@ Things I changed from lecture are:
 
 Here is the game's itch.io link:
 https://amirg00.itch.io/spaceship
+
 ---
 Unity's version used is 2021.3.18f1
